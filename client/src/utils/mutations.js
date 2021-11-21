@@ -63,4 +63,3 @@ export const ADD_BOOK = gql`
   }
 `;
 
-export default { LOGIN_USER, ADD_USER, ADD_BOOK, REMOVE_BOOK };
