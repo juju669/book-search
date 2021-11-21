@@ -1,4 +1,3 @@
-# Book Search Engine Starter Code
 <br/>
   
   <div align="center">
