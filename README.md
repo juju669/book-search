@@ -17,9 +17,10 @@
   <br/>
   
   <a href="#about"><strong>Explore the screenshots »</strong></a>
-  <br/>
-  <br/>
   
+  <br/>
+  <br/>
+  <a href= https://secret-wave-99591.herokuapp.com/> Heroku Deployment
   </div>
   
   
